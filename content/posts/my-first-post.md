@@ -4,3 +4,5 @@ draft = false
 title = 'My First Post'
 +++
 sadsasdfds
+
+Внес изменение в пост через веб-интерфейс Github
